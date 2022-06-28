@@ -1,0 +1,7 @@
+Executable : C:\Users\roma\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Practice\Projects\Test\proj.android\app\.cxx\Debug\g6y4245t\armeabi-v7a
+MyGame
+jvmArgs : 
+

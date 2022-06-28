@@ -1,0 +1,21 @@
+﻿  Building Custom Rule C:/Practice/Projects/Test/cocos2d/external/recast/CMakeLists.txt
+  DebugDraw.cpp
+  DetourDebugDraw.cpp
+  DetourAlloc.cpp
+  DetourCommon.cpp
+  DetourNavMesh.cpp
+  DetourNavMeshBuilder.cpp
+  DetourNavMeshQuery.cpp
+  DetourNode.cpp
+  DetourCrowd.cpp
+  DetourLocalBoundary.cpp
+  DetourObstacleAvoidance.cpp
+C:\Practice\Projects\Test\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp(334): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  DetourPathCorridor.cpp
+  DetourPathQueue.cpp
+  DetourProximityGrid.cpp
+  DetourTileCache.cpp
+  DetourTileCacheBuilder.cpp
+  Создание кода...
+  fastlz.c
+  ext_recast.vcxproj -> C:\Practice\Projects\Test\proj.win32\lib\Debug\ext_recast.lib

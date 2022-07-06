@@ -36,6 +36,42 @@
     <ClInclude Include="C:\Practice\Projects\Test\Resources\HelloWorld.png">
       <Filter>Resources</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character0.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character1.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character10.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character11.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character2.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character3.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character4.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character5.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character6.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character7.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character8.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Practice\Projects\Test\Resources\character9.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
     <ClInclude Include="C:\Practice\Projects\Test\Resources\fonts\Marker Felt.ttf">
       <Filter>Resources\fonts</Filter>
     </ClInclude>

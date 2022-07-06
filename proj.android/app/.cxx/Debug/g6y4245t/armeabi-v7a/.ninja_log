@@ -646,3 +646,9 @@
 627033	627163	678112782	engine/cocos/platform/libcpp_android_spec.a	a26f13191866fc0
 625702	631368	678112787	lib/libcocos2d.a	7fc29048fd92b6ef
 631369	633282	678112788	../../../../build/intermediates/cxx/Debug/g6y4245t/obj/armeabi-v7a/libMyGame.so	4c14e0e9c139755
+180	16381	678816586	CMakeFiles/MyGame.dir/Classes/AppDelegate.cpp.o	beb378843a801dd4
+111	8202	678825952	CMakeFiles/MyGame.dir/Classes/HelloWorldScene.cpp.o	e8af188b901a1404
+8202	13204	678825956	../../../../build/intermediates/cxx/Debug/g6y4245t/obj/armeabi-v7a/libMyGame.so	4c14e0e9c139755
+50	5970	678827141	CMakeFiles/MyGame.dir/Classes/AppDelegate.cpp.o	beb378843a801dd4
+47	6967	678827142	CMakeFiles/MyGame.dir/Classes/HelloWorldScene.cpp.o	e8af188b901a1404
+6968	10766	678827145	../../../../build/intermediates/cxx/Debug/g6y4245t/obj/armeabi-v7a/libMyGame.so	4c14e0e9c139755
